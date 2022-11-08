@@ -1,5 +1,6 @@
 # CS301
 
+This github repo is used by Faviola Bautista for Semantic Segmentation of Satellite Imagery Project in CS301
 
 GO TO BRANCHES > milestone1 to see first part of project (milestone 1)
 
