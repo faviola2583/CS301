@@ -1,4 +1,4 @@
 # CS301
 
 
-GO TO BRANCHES > milestone-1 to see first part of project (milestone 1)
+MILESTONE 2 FOR PROJECT --DONE BY FAVIOLA BAUTISTA
